@@ -6,7 +6,7 @@ import core.base.DefaultVO;
 /**
  * 복지항목코드 MODEL GHRWF010
  *
- * @Author 정우용
+ * @Author 정우용+GitHub를 사용한 VO 
  * @Description 복지항목코드 MODEL GHRWF010
  * @Company Daewoo Information Systems Co., Ltd.
  * @Copyright Daewoo Information Systems Co., Copyright (c) 2018
